@@ -50,3 +50,64 @@ This C program provides a basic product management system featuring functionalit
 ## Additional Notes
 
 - Ensure that you have appropriate permissions to read and write to the "receipt.txt" file.
+
+## Example Output
+
+```plaintext
+1. Input product
+2. DISPLAY
+3. Finish
+0. Exit
+Enter your choice : 1
+
+Enter Product Name : Laptop
+Enter Quantity : 2
+Enter unit : 800.00
+
+1. Input product
+2. DISPLAY
+3. Finish
+0. Exit
+Enter your choice : 1
+
+Enter Product Name : Mouse
+Enter Quantity : 5
+Enter unit : 15.00
+
+1. Input product
+2. DISPLAY
+3. Finish
+0. Exit
+Enter your choice : 2
+
+                          RECEIPT                              
+-------------------------------------------------------------------
+name           Quantity       unit      amount
+-------------------------------------------------------------------
+Laptop         2              800.00    1600.00
+Mouse          5              15.00     75.00
+-------------------------------------------------------------------
+
+1. Input product
+2. DISPLAY
+3. Finish
+0. Exit
+Enter your choice : 3
+
+                     -----RECEIPT-----                         
+                      DATE 2023-11-24                         
+-------------------------------------------------------------------
+name           Quantity       unit      amount
+-------------------------------------------------------------------
+Laptop         2              800.00    1600.00
+Mouse          5              15.00     75.00
+-------------------------------------------------------------------
+                                         Sub Total = 1699.25
+                                                V.A.T = 118.94
+                                           NETTOTAL = 1699
+
+1. Input product
+2. DISPLAY
+3. Finish
+0. Exit
+Enter your choice : 0

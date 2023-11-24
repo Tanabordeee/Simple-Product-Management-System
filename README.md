@@ -102,9 +102,9 @@ name           Quantity       unit      amount
 Laptop         2              800.00    1600.00
 Mouse          5              15.00     75.00
 -------------------------------------------------------------------
-                                         Sub Total = 1699.25
-                                         V.A.T = 118.94
-                                         NETTOTAL = 1699
+                                         Sub Total = 1792.25
+                                         V.A.T = 117.25
+                                         NETTOTAL = 1675
 
 1. Input product
 2. DISPLAY
